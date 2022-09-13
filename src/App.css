@@ -1,3 +1,9 @@
 .App {
   text-align: center;
 }
+
+.forecast-home{
+  background-color: #100E1D;
+  width: 100%;
+  padding-top: 148px;
+}

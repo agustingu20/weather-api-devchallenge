@@ -1,4 +1,4 @@
-export const weatherTypes = [
+const weatherTypes = [
   {
     code: 1000,
     day: 'Sunny',
@@ -288,3 +288,5 @@ export const weatherTypes = [
     icon: './day/395.png',
   },
 ];
+
+export default weatherTypes;
